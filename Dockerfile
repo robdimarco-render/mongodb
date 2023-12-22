@@ -1,1 +1,1 @@
-FROM robdimarcorender/mongodb:mytest
+FROM robdimarcorender/mysql-example:latest
